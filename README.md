@@ -47,3 +47,8 @@ Collaboration
 - Dhruv: Worked on the technical design and programming of the game
 - Changda: Game theme ideation, how to involve musical ideas, 3D
 modeling, assist programming
+
+
+Video Link:https://www.youtube.com/watch?v=w4bzvwgM4Jw
+
+Future Plan:![image](https://github.com/user-attachments/assets/b2bcdb56-cdff-426c-bb70-1d3bf49ebd48)
