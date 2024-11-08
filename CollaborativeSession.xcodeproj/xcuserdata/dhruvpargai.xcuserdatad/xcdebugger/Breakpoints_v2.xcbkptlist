@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1A4BEE64-D077-4ADE-A703-6ED51A7461D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollaborativeSession/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE - 3dd0e8af0f83017c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2952">
+               </Location>
+               <Location
+                  uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE - 3dd0e8af0f83017c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "3532">
+               </Location>
+               <Location
+                  uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE - 3dd0e8af0f83017c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "3464">
+               </Location>
+               <Location
+                  uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE - 3dd0e8af0f83017c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "3628">
+               </Location>
+               <Location
+                  uuid = "0571DB6A-A93F-4B4E-991B-097FA7E44CEE - 3dd0e8af0f83032e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "3000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCE3D06E-4D62-402F-BC0E-B21C964EAA9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollaborativeSession/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47ECF8E8-0AB3-47F7-8153-B4F712EF8406"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollaborativeSession/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "resetTracking()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47ECF8E8-0AB3-47F7-8153-B4F712EF8406 - 2dd926e00405672a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.handleJoinSession() -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "47ECF8E8-0AB3-47F7-8153-B4F712EF8406 - 2dd926e00405670b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.ViewController.handleJoinSession() -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAB0D7D9-C6AD-49A8-96BD-21C64980F7B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollaborativeSession/MultipeerSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "MultipeerSession"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "CAB0D7D9-C6AD-49A8-96BD-21C64980F7B0 - c2fa977248a7ca4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.MultipeerSession.advertiser(_: __C.MCNearbyServiceAdvertiser, didReceiveInvitationFromPeer: __C.MCPeerID, withContext: Swift.Optional&lt;Foundation.Data&gt;, invitationHandler: (Swift.Bool, Swift.Optional&lt;__C.MCSession&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/MultipeerSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "CAB0D7D9-C6AD-49A8-96BD-21C64980F7B0 - c2fa977248a7ca4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollaborativeSession.MultipeerSession.advertiser(_: __C.MCNearbyServiceAdvertiser, didReceiveInvitationFromPeer: __C.MCPeerID, withContext: Swift.Optional&lt;Foundation.Data&gt;, invitationHandler: (Swift.Bool, Swift.Optional&lt;__C.MCSession&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CollaborativeSession"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvpargai/Desktop/CreatingACollaborativeSession/CollaborativeSession/MultipeerSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5584AF71-B2E4-407E-8561-E7BFBD269972"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollaborativeSession/MultipeerSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "MultipeerSession"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
