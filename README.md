@@ -2,7 +2,8 @@
 AR-based multiplayer musical treasure hunt
 
 Is there a relationship between architecture, music, and human cognition?
-Description
+
+#Description#
 - We built an AR-based multiplayer musical treasure hunt. We used
 Apple’s AR frameworks - RealityKit and ARKit for development and
 our target devices were iPhones and iPads.
