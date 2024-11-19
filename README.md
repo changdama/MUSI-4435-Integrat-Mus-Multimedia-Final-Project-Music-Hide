@@ -1,4 +1,4 @@
-# MUSI-4435-Integrat-Mus-Multimedia-Final-Project-Work-Music-Hide
+# MUSI-6104-Integrat-Mus-Multimedia-Final-Project-Work-Music-Hide
 AR-based multiplayer musical treasure hunt
 
 Is there a relationship between architecture, music, and human cognition?
