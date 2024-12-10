@@ -3,7 +3,7 @@ AR-based multiplayer musical treasure hunt
 
 Is there a relationship between architecture, music, and human cognition?
 
-Description
+## Description ##
 - We built an AR-based multiplayer musical treasure hunt. We used
 Apple’s AR frameworks - RealityKit and ARKit for development and
 our target devices were iPhones and iPads.
@@ -12,7 +12,7 @@ interesting that we noticed people playing it as a ‘Wanderer’ where
 even though they found all the chords, they’d still go around to
 explore the environment.
 
-Game Flow
+## Game Flow ##
 The game has two roles for players - hider and seeker. The player that
 opens the game and starts the session becomes the hider by default and
 the player that joins the session is the seeker.
@@ -35,7 +35,7 @@ screen and the game makes the chord visible if they were close
 enough to it, otherwise the game tells you that there are no chords
 around.
 
-Challenges and Changes
+## Challenges and Changes ##
 - Fixing errors related to wireless synchronization of AR maps between
 devices was tricky and had bugs. (Some are still there)
 - Setting up the parameters and choosing appropriate samples for
@@ -43,12 +43,20 @@ spatial audio sound so that users could distinguish sounds was
 challenging. Overall, I think this worked fairly well since we saw users
 being able to isolate sound sources during the neo-arcade event.
 
-Collaboration
+## Collaboration ##
 - Dhruv: Worked on the technical design and programming of the game
 - Changda: Game theme ideation, how to involve musical ideas, 3D
 modeling, assist programming
 
 
-Video Link:https://www.youtube.com/watch?v=w4bzvwgM4Jw
+## Video ##
 
-Future Plan:![image](https://github.com/user-attachments/assets/b2bcdb56-cdff-426c-bb70-1d3bf49ebd48)
+<a href="https://www.youtube.com/watch?v=w4bzvwgM4Jw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/w4bzvwgM4Jw/maxresdefault.jpg" width="480" alt="Video Title: A Walkthrough" class="off-glb">
+</a>
+
+
+
+## Future Plan ##
+
+![image](https://github.com/user-attachments/assets/b2bcdb56-cdff-426c-bb70-1d3bf49ebd48)
